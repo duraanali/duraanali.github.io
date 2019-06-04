@@ -128,7 +128,7 @@
 					'<span class="title">' + $('#logo').html() + '</span>' +
 				'</div>'
 			)
-				.appendTo($footer);
+				.appendTo($body);
 
 		// Panel.
 			$header
